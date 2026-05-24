@@ -1,5 +1,0 @@
-</> log
-
-May 18 10:22:31 Failed password for admin from 192.168.1.10
-May 18 10:23:12 Failed password for root from 192.168.1.10
-May 18 10:25:45 Accepted password for user from 192.168.1.20
